@@ -34,7 +34,7 @@ class ChatHeadService : Service() {
         )
 
         // Specify the chat head position
-        param.gravity = Gravity.TOP or Gravity.RIGHT
+        param.gravity = Gravity.TOP
         param.x = 0
         param.y = 100
 
